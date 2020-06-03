@@ -17,4 +17,4 @@ Template to create the folowing:
 - **64 Services**
 
 ## Instructions
-Download the file or copy contents into a text file **with a `.json` extension**. To import the template go to the main menu (top left) in your PCE -> *Policy Objects* -> *Segmentation Templates* -> *Load File*
+Download the file or copy contents of `Illumio-PCE-Setup-Template.json` into a text file **with a `.json` extension**. To import the template go to the main menu (top left) in your PCE -> *Policy Objects* -> *Segmentation Templates* -> *Load File*
