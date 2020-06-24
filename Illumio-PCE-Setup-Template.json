@@ -43,6 +43,26 @@
                     {
                         "key": "app",
                         "value": "SECURITY-MGMT"
+                    },
+                    {
+                        "key": "env",
+                        "value": "PROD"
+                    },
+                    {
+                        "key": "env",
+                        "value": "DEV"
+                    },
+                    {
+                        "key": "env",
+                        "value": "TEST"
+                    },
+                    {
+                        "key": "env",
+                        "value": "STAGING"
+                    },
+                    {
+                        "key": "env",
+                        "value": "UAT"
                     }
                 ]
             },
