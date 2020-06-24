@@ -9,6 +9,11 @@ Template to create the folowing:
    - ACTIVE-DIRECTOR (app)
    - INFRA-MGMT (app)
    - SECURITY-MGMT (app)
+   - PROD (env)
+   - DEV (env)
+   - TEST (env)
+   - STAGING (env)
+   - UAT (env)
 - **4 IP lists**:
    - RFC 1918
    - Link Local
